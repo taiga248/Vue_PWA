@@ -1,4 +1,6 @@
-# app
+# Vue PWA
+
+[here](https://taiga248.github.io/Vue-PWA/)
 
 ## Project setup
 ```
